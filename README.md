@@ -9,7 +9,7 @@ This project was made to understand APIs because hardcoding data gets boring aft
 ## OUTPUT
 
 <p align="center">
-  <img src="src/Screenshots/Screenshot.jpeg" width="300">
+  <img src="Screenshots/Screenshot.jpeg" width="300">
 </p>
 
 ---
